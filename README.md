@@ -43,4 +43,5 @@ VSCode와 Docker 연결하는 방법 정리
 
 ## Reference
 ---
-- https://24hours-beginner.tistory.com/278
+- https://24hours-beginner.tistory.com/278 (연결하기)
+- https://blog.naver.com/chandong83/222718865280 (explore root 변경)
